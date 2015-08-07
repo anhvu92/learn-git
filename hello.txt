@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hello git, I'm Anh Vu
-=======
-hello git
->>>>>>> parent of 19bf6ef... Sua file hello
+hello I'm Vu

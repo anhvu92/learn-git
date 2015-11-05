@@ -1,1 +1,2 @@
 Thang 1: 10 trieu
+Thang 2: 15 trieu

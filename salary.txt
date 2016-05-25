@@ -1,3 +1,5 @@
 Thang 1: 10 trieu
 Thang 2: 12 trieu VND
 Thang 3: 20 trieu VND
+Thang 4: 20 tr
+Thang 5: 20 tr
